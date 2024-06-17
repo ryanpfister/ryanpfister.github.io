@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Ryan D. Pfister
+Ryan D. Pfister
+Bachelor of Science in Security Systems Student
 
 Show Contacts
 
 Email
-richard@example.com
+mifd413@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (631) 994-6567
 
 Birthday
-June 23, 1982
+October 7th
 
 Location
-Sacramento, California, USA
+Long Island, New York, USA
 
 # navbar
 
@@ -32,9 +32,19 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+As a committed Public Safety Officer for the Town of Brookhaven,
+my responsibilities encompass securing facilities, enforcing codes,
+and collaborating with local agencies to maintain community
+well-being. This role has honed my skills in public safety and law
+enforcement, complementing my ongoing education in security
+systems at Farmingdale State College.
+Concurrently serving as an Intern at Siemens and a Constable
+for Port Jefferson Village, I leverage my computer literacy and
+networking knowledge from Cisco Networking Academy to
+enhance operational efficiencies. My Eagle Scout honor and
+healthcare provider certifications reflect my dedication to service
+and preparedness, underpinning my goal to safeguard communities
+through technology and security expertise.
 
 
 ## service
